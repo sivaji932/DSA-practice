@@ -1,0 +1,77 @@
+solved DSA problems:
+
+( leetcode problems and others mentioned,other problems available in that respective algorithm directory)
+
+
+[ SORTING ALGORITHMS ]
+Bubble Sort
+
+
+[ TWO POINTERS ] - use two varibales to track elements of a sequence or at any points (right<left) and do required operations (eg. validation,swapping etc)
+
+leetcode 1 - two sum - Easy (with hashmap)
+LeetCode 125 — Valid Palindrome (above Easy)
+leetcode 26 - remove duplicte from sorted array - Easy
+leetcode 283 - move zeroes - Easy
+LeetCode 977 — Squares of a Sorted Array - Easy
+LeetCode 11 — Container With Most Water - Medium (NOT SOLVED)
+LeetCode 15 — 3Sum - Medium
+LeetCode 16 — 3Sum Closest - Medium
+LeetCode 18 — 4Sum - Medium
+
+
+[ PREFIX SUM ] - use cummulative element sum array of the original array for further process
+
+leetcode 1482 - Running Sum of 1D array - Easy  
+leetcode 303 - Range Sum query - Easy
+leet code 560 - sub array sum equals to k - Medium
+leetcode 724 - find pivot index - Easy 
+LeetCode 523 — Continuous Subarray Sum - Medium (sliding window can't solve this problem)
+leetcode 238 - Product of subarray except itself - Medium
+LeetCode 713 — Subarray Product Less Than K 
+
+
+[ SLIDING WINDOW ] - maintain a contigious portion of an array or string ,either the window expand or shrink based on requirement
+                     without repeatedly processing the same elements
+
+
+LeetCode 2461 — Maximum Sum of Distinct Subarrays With Length K - Medium
+LeetCode 1423 — Maximum Points You Can Obtain from Cards - Medium
+leetcode 643 - Maximum Average Subarray I - Easy
+LeetCode 3 — Longest Substring Without Repeating Characters
+LeetCode 904 — Fruit Into Baskets - Medium
+LeetCode 424 — Longest Repeating Character Replacement - Medium
+LeetCode 1358 — Number of Substrings Containing All Three Characters - Medium
+LeetCode 930 — Binary Subarrays With Sum - Medium
+LeetCode 1248 — Count Number of Nice Subarrays - Medium
+LeetCode 485 — Max Consecutive Ones I - Easy (use basic for loop only)
+LeetCode 487 - Max Consecutive Ones II - Medium
+LeetCode 1004 - Max Consecutive Ones III - Medium
+
+
+[ KADANE'S ALGORITHM ]
+
+LeetCode 152 — Maximum Product Subarray - Medium
+LeetCode 1749 — Maximum Absolute Sum of Any Subarray - Medium
+
+
+[ GREEDY ALGORITHM ]
+
+LeetCode 121 — Best Time to Buy and Sell Stock - Easy
+
+
+[ BINARY SEARCH ] - it bisects the given serach space in every step in order to redice to space and either go left or right side
+                    left side to find the answer.
+
+Binary Search - standard
+GeeksForGeeks - Lower Bound
+leetcode 35 – Search Insert Position 
+GeeksForGeeks - Upper Bound
+GeeksforGeeks – Floor and Ceil in a Sorted Array
+LeetCode 34 – Find First and Last Position of Element in Sorted Array
+leetcode 33 - Search in Rotated Sorted Array - Medium
+LeetCode 81 – Search in Rotated Sorted Array II - Medium
+LeetCode 153 – Find Minimum in Rotated Sorted Array - Medium
+GeeksforGeeks – Find Kth Rotation 
+leetcode 2089 - 
+
