@@ -3,6 +3,9 @@ solved DSA problems:
 ( leetcode problems and others mentioned,other problems available in that respective algorithm directory)
 
 
+[ STRINGS ]
+LeetCode 709 – To Lower Case - Easy
+
 [ SORTING ALGORITHMS ]
 Bubble Sort
 
