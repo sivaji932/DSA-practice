@@ -5,6 +5,7 @@ solved DSA problems:
 
 [ STRINGS ]
 LeetCode 709 – To Lower Case - Easy
+LeetCode 242 – Valid Anagram - Easy
 
 [ SORTING ALGORITHMS ]
 Bubble Sort
@@ -51,6 +52,7 @@ LeetCode 485 — Max Consecutive Ones I - Easy (use basic for loop only)
 LeetCode 487 - Max Consecutive Ones II - Medium
 LeetCode 1004 - Max Consecutive Ones III - Medium
 LeetCode 209 – Minimum Size Subarray Sum - Medium
+LeetCode 438 – Find All Anagrams in a String - Medium
 
 
 [ KADANE'S ALGORITHM ]
